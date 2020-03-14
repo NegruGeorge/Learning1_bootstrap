@@ -1,0 +1,47 @@
+body{
+	background: #B7B7B7; 
+	font-family: : "Nunito", sans-serif;
+}
+
+
+#mainNavbar {
+	font-size:1.5rem;
+	font-weight: 100;
+}
+
+#mainNavbar .nav-link{
+	color: white;
+}
+
+#mainNavbar  .nav-link:hover {
+	color :#787878;
+
+}
+
+
+#mainNavbar .navbar-brand{
+	color :#787878;
+	font-size: 1.75rem;
+file:///D:/WEB/htmlintro/books_bootstrap4/background.jpg
+
+	
+}
+
+#headingGroup span {
+	color: #787878;
+
+}
+#headingGroup h1 {
+	font-weight: 100;
+	font-size: 4rem;
+
+}
+
+
+@media (max-width: 1700px){
+	#headingGroup h1 {
+	font-weight: 100;
+	font-size: 2.4rem;
+
+}
+}
